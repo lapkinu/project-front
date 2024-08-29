@@ -13,6 +13,7 @@ public class Player {
     private Integer level;
 
     public Player() {
+
     }
 
     public Player(Long id, String name, String title, Race race, Profession profession, Date birthday, Boolean banned, Integer level) {
